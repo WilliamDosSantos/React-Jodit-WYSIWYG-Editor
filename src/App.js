@@ -1,5 +1,5 @@
 import React from "react";
-import "./app.css";
+import "./App.css";
 import Editor from "./components/Editor/index";
 
 const App = () => {
